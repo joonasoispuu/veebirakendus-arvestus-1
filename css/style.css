@@ -1,0 +1,83 @@
+th{
+    height: 4em;
+    width: 120%;
+    background-color: grey;
+}
+
+table, th, td{
+    border:2px solid black;
+    border-collapse: collapse;
+}
+
+dt{
+    margin-top: 10px;
+}
+
+h1{
+    margin-top: 2%;
+    font-size: 25px;
+    display: flex;
+}
+
+body{margin-left: 2%;}
+
+#table{
+    margin-top: 2%;
+    margin-bottom: 3%;
+}
+
+table{
+    border:5px;
+    border-radius: 10px;
+}
+
+td, th{
+    width: 5%;
+    text-align: center;
+}
+
+.tunniplaan{
+    margin-right: 8%;
+    margin-left: 8%;
+    margin-bottom: 5%;
+}
+
+caption{
+    font-size: 2rem;
+    margin-bottom: 1%;
+}
+
+.nav a{
+    text-decoration: none;
+    display: block;
+    padding: 20px 15px;
+    text-align: center;
+    background-color: rgb(235, 238, 58);
+    color: #909497;
+    font-family: sans-serif;
+    margin: 1;
+    
+}
+
+#oppeained{
+    margin-top: 4%;
+}
+
+.nav{
+    margin-top: 2%;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(221, 235, 176);
+    width: 25%;
+    left: 0;
+    top: 0;
+}
+
+.nav h1{
+    margin-right: 5%;
+    margin-left: 2%;
+}
+
+dl{
+    font-size: 20px;
+}
